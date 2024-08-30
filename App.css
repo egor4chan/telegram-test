@@ -1,0 +1,21 @@
+* {
+    background-color: rgb(255, 255, 255);
+}
+
+body {
+    height: 100%;
+    font-family: 'Inter';
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+button {
+    position: relative;
+    top: 300px;
+    width: 30%;
+    height: 50px;
+    border: 1px solid;
+    border-radius: 10px;
+}
